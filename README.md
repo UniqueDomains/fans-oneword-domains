@@ -70,13 +70,13 @@ print(df.head())
 | abundant.fans   | available | $13.98     | —             | 80             | 21     | 8      | namecheap                                               |
 | true.fans       | resell    | —          | —             | 86             | 52     | 4      | Dynadot LLC                                             |
 | think.fans      | premium   | $22,992.33 | —             | 82             | 64     | 5      | TLD Registrar Solutions Ltd                             |
-| cooked.fans     | available | $13.98     | —             | 70             | 21     | 6      | namecheap                                               |
+| defined.fans    | available | $13.98     | —             | 68             | 21     | 7      | namecheap                                               |
 | video.fans      | resell    | —          | —             | 106            | 47     | 5      | Dynadot LLC                                             |
 | power.fans      | premium   | $910       | $910          | 98             | 62     | 5      | namecheap                                               |
-| defined.fans    | available | $13.98     | —             | 68             | 21     | 7      | namecheap                                               |
+| cooked.fans     | available | $13.98     | —             | 70             | 20     | 6      | namecheap                                               |
 | elite.fans      | resell    | —          | —             | 90             | 43     | 5      | Name.com, Inc                                           |
 | seventeen.fans  | premium   | $65        | $65           | 84             | 62     | 9      | namecheap                                               |
-| coordinate.fans | available | $13.98     | —             | 108            | 18     | 10     | namecheap                                               |
+| coordinate.fans | available | $13.98     | —             | 108            | 19     | 10     | namecheap                                               |
 | lit.fans        | resell    | —          | —             | 78             | 41     | 3      | InterNetX GmbH                                          |
 | ace.fans        | premium   | $650       | $650          | 88             | 57     | 3      | namecheap                                               |
 | masterly.fans   | available | $13.98     | —             | 79             | 18     | 8      | namecheap                                               |
