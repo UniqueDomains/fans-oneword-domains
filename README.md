@@ -1,10 +1,10 @@
-# Available .FANS One-Word Domains (11,928)
+# Available .FANS One-Word Domains (12,490)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C928%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C490%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fans one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,928 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,490 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,928 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,490 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/fans`  
 **Best for:** founders, investors, studios
 
@@ -75,15 +75,15 @@ print(df.head())
 | cars.fans          | premium   | $700      | $700          | 66             | 47     | 4      | namecheap       |
 | lostandfound.fans  | available | $13.98    | —             | 64             | 19     | 14     | namecheap       |
 | skills.fans        | premium   | $419.94   | —             | 58             | 47     | 6      | name.com        |
-| outofoffice.fans   | available | $13.98    | —             | 61             | 19     | 13     | namecheap       |
-| Ryan.fans          | premium   | $140      | $140          | 60             | 44     | 4      | namecheap       |
 | enlightenment.fans | available | $13.98    | —             | 62             | 18     | 13     | namecheap       |
-| jobs.fans          | premium   | $700      | $700          | 79             | 42     | 4      | namecheap       |
+| Ryan.fans          | premium   | $140      | $140          | 60             | 44     | 4      | namecheap       |
 | Sundays.fans       | available | $13.98    | —             | 61             | 17     | 7      | namecheap       |
 | Tools.fans         | premium   | $280      | $280          | 56             | 40     | 5      | namecheap       |
-| intune.fans        | available | $13.98    | —             | 72             | 16     | 7      | namecheap       |
+| reps.fans          | available | $9.88     | $9.88         | 73             | 16     | 4      | namesilo        |
 | homes.fans         | premium   | $700      | $700          | 86             | 34     | 5      | namecheap       |
 | fundamentals.fans  | available | $13.98    | —             | 74             | 15     | 12     | namecheap       |
+| spectra.fans       | premium   | $69.99    | —             | 62             | 34     | 7      | name.com        |
+| appreciation.fans  | available | $13.98    | —             | 88             | 13     | 12     | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,928 live domains                              |
+| 1,000-row public sample | 12,490 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
