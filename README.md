@@ -1,10 +1,10 @@
-# Available .FANS One-Word Domains (12,490)
+# Available .FANS One-Word Domains (12,492)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C490%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C492%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fans one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,490 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,492 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,490 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,492 domains · **Median ask:** $120.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/fans`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| whynot.fans        | available | $13.98    | —             | 74             | 39     | 7      | namecheap       |
-| tokens.fans        | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc. |
-| nets.fans          | premium   | $70       | $70           | 54             | 81     | 4      | namecheap       |
-| commonground.fans  | available | $13.98    | —             | 74             | 28     | 13     | namecheap       |
-| regions.fans       | premium   | $69.99    | —             | 64             | 59     | 7      | name.com        |
-| deeplearning.fans  | available | $13.98    | —             | 74             | 23     | 13     | namecheap       |
-| agents.fans        | premium   | $699.90   | —             | 56             | 50     | 6      | name.com        |
-| CapeCod.fans       | available | $13.98    | —             | 78             | 22     | 8      | namecheap       |
-| cars.fans          | premium   | $700      | $700          | 66             | 47     | 4      | namecheap       |
-| lostandfound.fans  | available | $13.98    | —             | 64             | 19     | 14     | namecheap       |
-| skills.fans        | premium   | $419.94   | —             | 58             | 47     | 6      | name.com        |
-| enlightenment.fans | available | $13.98    | —             | 62             | 18     | 13     | namecheap       |
-| Ryan.fans          | premium   | $140      | $140          | 60             | 44     | 4      | namecheap       |
-| Sundays.fans       | available | $13.98    | —             | 61             | 17     | 7      | namecheap       |
-| Tools.fans         | premium   | $280      | $280          | 56             | 40     | 5      | namecheap       |
-| reps.fans          | available | $9.88     | $9.88         | 73             | 16     | 4      | namesilo        |
-| homes.fans         | premium   | $700      | $700          | 86             | 34     | 5      | namecheap       |
-| fundamentals.fans  | available | $13.98    | —             | 74             | 15     | 12     | namecheap       |
-| spectra.fans       | premium   | $69.99    | —             | 62             | 34     | 7      | name.com        |
-| appreciation.fans  | available | $13.98    | —             | 88             | 13     | 12     | namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Acup.fans         | available | $13.98    | —             | 80             | 5      | 5      | namecheap       |
+| barup.fans        | available | $13.98    | —             | 82             | 2      | 6      | namecheap       |
+| toneup.fans       | available | $13.98    | —             | 80             | 5      | 7      | namecheap       |
+| hangon.fans       | available | $13.98    | —             | 82             | 6      | 7      | namecheap       |
+| pierogi.fans      | available | $13.98    | —             | 82             | 7      | 7      | namecheap       |
+| dogsick.fans      | available | $13.98    | —             | 90             | 1      | 7      | namecheap       |
+| getlife.fans      | available | $13.98    | —             | 80             | 5      | 8      | namecheap       |
+| headout.fans      | available | $13.98    | —             | 82             | 6      | 8      | namecheap       |
+| beawake.fans      | available | $13.98    | —             | 84             | 3      | 8      | namecheap       |
+| chaitea.fans      | available | $13.98    | —             | 86             | 3      | 8      | namecheap       |
+| becalled.fans     | available | $9.88     | $9.88         | 86             | 2      | 9      | namesilo        |
+| whynot.fans       | available | $13.98    | —             | 74             | 39     | 7      | namecheap       |
+| tokens.fans       | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc. |
+| nets.fans         | premium   | $70       | $70           | 54             | 81     | 4      | namecheap       |
+| commonground.fans | available | $13.98    | —             | 74             | 28     | 13     | namecheap       |
+| regions.fans      | premium   | $69.99    | —             | 64             | 59     | 7      | name.com        |
+| deeplearning.fans | available | $13.98    | —             | 74             | 23     | 13     | namecheap       |
+| agents.fans       | premium   | $699.90   | —             | 56             | 50     | 6      | name.com        |
+| CapeCod.fans      | available | $13.98    | —             | 78             | 22     | 8      | namecheap       |
+| cars.fans         | premium   | $700      | $700          | 66             | 47     | 4      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,490 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,492 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .fans domains. That gives it a clear commercial profile: names built around fandom, audiences, creators, clubs, and community identity. Examples such as Acup.fans, dogsit.fans, edamame.fans, QandA.fans, and toneup.fans show a mix of playful dictionary terms, action phrases, and niche-interest words. For founders, the main question is whether the word is memorable and naturally fits a fan relationship. For investors, the key test is whether the term has clear end-user relevance at a low enough ask to leave room for resale. The median ask across this set is 120.43, so pricing discipline matters less than category fit and renewal tolerance.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this set use the .fans extension
+- Median ask across the selection is 120.43
+- Best fit is fan, creator, club, or audience branding
+- Check word clarity, renewal fit, and trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
