@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fans one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,492 domains · **Median ask:** $120.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/fans`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | beawake.fans      | available | $13.98    | —             | 84             | 3      | 8      | namecheap       |
 | chaitea.fans      | available | $13.98    | —             | 86             | 3      | 8      | namecheap       |
 | becalled.fans     | available | $9.88     | $9.88         | 86             | 2      | 9      | namesilo        |
-| whynot.fans       | available | $13.98    | —             | 74             | 39     | 7      | namecheap       |
+| whynot.fans       | available | $13.98    | —             | 74             | 44     | 7      | namecheap       |
 | tokens.fans       | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc. |
 | nets.fans         | premium   | $70       | $70           | 54             | 81     | 4      | namecheap       |
 | commonground.fans | available | $13.98    | —             | 74             | 28     | 13     | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
