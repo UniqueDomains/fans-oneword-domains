@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .fans one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,492 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,492 domains · **Median ask:** $120.43 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,492 domains · **Median ask:** $125.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/fans`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/fans`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FANS one-word domain 
 
 ### Files
 
-- `fans.csv` — public CSV extract (1,000 rows)
-- `fans.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `fans.csv`, public CSV extract (1,000 rows)
+- `fans.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.fans         | available | $13.98    | —             | 80             | 5      | 5      | namecheap       |
-| barup.fans        | available | $13.98    | —             | 82             | 2      | 6      | namecheap       |
-| toneup.fans       | available | $13.98    | —             | 80             | 5      | 7      | namecheap       |
-| hangon.fans       | available | $13.98    | —             | 82             | 6      | 7      | namecheap       |
-| pierogi.fans      | available | $13.98    | —             | 82             | 7      | 7      | namecheap       |
-| dogsick.fans      | available | $13.98    | —             | 90             | 1      | 7      | namecheap       |
-| getlife.fans      | available | $13.98    | —             | 80             | 5      | 8      | namecheap       |
-| headout.fans      | available | $13.98    | —             | 82             | 6      | 8      | namecheap       |
-| beawake.fans      | available | $13.98    | —             | 84             | 3      | 8      | namecheap       |
-| chaitea.fans      | available | $13.98    | —             | 86             | 3      | 8      | namecheap       |
-| becalled.fans     | available | $9.88     | $9.88         | 86             | 2      | 9      | namesilo        |
-| whynot.fans       | available | $13.98    | —             | 74             | 44     | 7      | namecheap       |
-| tokens.fans       | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc. |
-| nets.fans         | premium   | $70       | $70           | 54             | 81     | 4      | namecheap       |
-| commonground.fans | available | $13.98    | —             | 74             | 28     | 13     | namecheap       |
-| regions.fans      | premium   | $69.99    | —             | 64             | 59     | 7      | name.com        |
-| deeplearning.fans | available | $13.98    | —             | 74             | 23     | 13     | namecheap       |
-| agents.fans       | premium   | $699.90   | —             | 56             | 50     | 6      | name.com        |
-| CapeCod.fans      | available | $13.98    | —             | 78             | 22     | 8      | namecheap       |
-| cars.fans         | premium   | $700      | $700          | 66             | 47     | 4      | namecheap       |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| calf.fans  | available | $9.88     | $9.88         | high           | low    | 4      | namesilo  |
+| awe.fans   | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| gave.fans  | available | $9.88     | $9.88         | medium         | low    | 4      | namesilo  |
+| bce.fans   | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
+| acute.fans | available | $9.88     | $9.88         | high           | low    | 5      | namesilo  |
+| ben.fans   | premium   | $640      | $640          | high           | medium | 3      | namesilo  |
+| armed.fans | available | $13.98    | —             | high           | low    | 5      | namecheap |
+| bot.fans   | premium   | $420      | $420          | high           | medium | 3      | namecheap |
+| chore.fans | available | $9.88     | $9.88         | high           | low    | 5      | namesilo  |
+| cap.fans   | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| fewer.fans | available | $9.88     | $9.88         | medium         | low    | 5      | namesilo  |
+| cut.fans   | premium   | $260      | $260          | high           | low    | 3      | namecheap |
+| liked.fans | available | $9.88     | $9.88         | high           | low    | 5      | namesilo  |
+| dye.fans   | premium   | $384      | $384          | medium         | low    | 3      | namesilo  |
+| lorry.fans | available | $9.88     | $9.88         | high           | low    | 5      | namesilo  |
+| far.fans   | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| repel.fans | available | $9.88     | $9.88         | high           | low    | 5      | namesilo  |
+| fly.fans   | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| shrub.fans | available | $9.88     | $9.88         | medium         | low    | 5      | namesilo  |
+| fog.fans   | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .fans domains. That gives it a clear commercial profile: names built around fandom, audiences, creators, clubs, and community identity. Examples such as Acup.fans, dogsit.fans, edamame.fans, QandA.fans, and toneup.fans show a mix of playful dictionary terms, action phrases, and niche-interest words. For founders, the main question is whether the word is memorable and naturally fits a fan relationship. For investors, the key test is whether the term has clear end-user relevance at a low enough ask to leave room for resale. The median ask across this set is 120.43, so pricing discipline matters less than category fit and renewal tolerance.
+This list holds 12,492 one-word .fans domain names, blending pop-culture nods (LordOfTheRings.fans, CocaCola.fans), everyday nouns (messages.fans, primarycare.fans) and playful compounds (coffeecupful.fans, slicedbread.fans). Median ask sits near $125, keeping most names within reach for a first .fans pick. Compare length, theme and spelling ease before locking in a domain — shorter, dictionary-style names tend to hold broader appeal than novelty compounds.
 
-- All names in this set use the .fans extension
-- Median ask across the selection is 120.43
-- Best fit is fan, creator, club, or audience branding
-- Check word clarity, renewal fit, and trademark risk
+- 12,492 one-word .fans names — pop culture, food, brands & more
+- Median ask near $125, keeping entry cost approachable
+- Sample picks: CocaCola.fans, LordOfTheRings.fans, messages.fans
+- Mix of short brandable terms and longer thematic compounds
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
