@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fans one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,227 domains · **Median ask:** $78.40 · **High-demand under $2,500:** 47
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/fans`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| away.fans    | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
-| special.fans | premium   | $140      | $140          | high           | low    | 7      | namecheap |
-| agog.fans    | available | $4.98     | $13.98        | medium         | low    | 4      | namecheap |
-| awe.fans     | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
-| ashy.fans    | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
-| bce.fans     | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
-| awol.fans    | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
-| ben.fans     | premium   | $640      | $640          | high           | medium | 3      | namesilo  |
-| calf.fans    | available | $9.88     | $9.88         | high           | low    | 4      | namesilo  |
-| bot.fans     | premium   | $420      | $420          | high           | medium | 3      | namecheap |
-| eyry.fans    | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
-| cap.fans     | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
-| gave.fans    | available | $9.88     | $9.88         | medium         | low    | 4      | namesilo  |
-| ccc.fans     | premium   | $650      | $1,300        | low            | medium | 3      | namecheap |
-| lxii.fans    | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
-| cut.fans     | premium   | $260      | $260          | high           | low    | 3      | namecheap |
-| lxxx.fans    | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
-| cxx.fans     | premium   | $195      | $390          | low            | low    | 3      | namecheap |
-| xlii.fans    | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
-| dye.fans     | premium   | $384      | $384          | medium         | low    | 3      | namesilo  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agog.fans | available | $4.98     | $13.98        | medium         | low    | 4      | namecheap |
+| awe.fans  | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| ashy.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| bce.fans  | premium   | $242      | $242          | medium         | low    | 3      | namesilo  |
+| awol.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| ben.fans  | premium   | $640      | $640          | high           | medium | 3      | namesilo  |
+| calf.fans | available | $9.88     | $9.88         | high           | low    | 4      | namesilo  |
+| bot.fans  | premium   | $420      | $420          | high           | medium | 3      | namecheap |
+| eyry.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| cap.fans  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
+| gave.fans | available | $9.88     | $9.88         | medium         | low    | 4      | namesilo  |
+| ccc.fans  | premium   | $650      | $1,300        | low            | medium | 3      | namecheap |
+| lxii.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| cut.fans  | premium   | $260      | $260          | high           | low    | 3      | namecheap |
+| lxxx.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| cxx.fans  | premium   | $195      | $390          | low            | low    | 3      | namecheap |
+| xlii.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| dye.fans  | premium   | $384      | $384          | medium         | low    | 3      | namesilo  |
+| xxiv.fans | available | $4.98     | $13.98        | low            | low    | 4      | namecheap |
+| far.fans  | premium   | $384      | $384          | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FANS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
